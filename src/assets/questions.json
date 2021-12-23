@@ -1,0 +1,58 @@
+{
+    "questions": [{
+            "questionText": " Which of the following statement is correct?",
+            "options": [{
+                    "text": "js is Server Side Language.",
+                    "correct": true
+                },
+                {
+                    "text": "js is the Client Side Language."
+                },
+                {
+                    "text": "js is both Server Side and Client Side Language."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": "Node.js is Server Side Language."
+        },
+        
+        {
+            "questionText": " What does the REPL stand for?",
+            "options": [{
+                    "text": "REPL stands for Read Eval Print Loop.",
+                    "correct": true
+                },
+                {
+                    "text": "REPL stands for Research Eval Program Learn"
+                },
+                {
+                    "text": "REPL stands for Read Earn Point Learn."
+                },
+                {
+                    "text": "REPL stands for Read Eval Point Loop."
+                }
+            ],
+            "explanation": "REPL stands for Read Eval Print Loop."
+        },
+        {
+            "questionText": " Which of the following command is used to start a REPL session?",
+            "options": [{
+                    "text": "$ node",
+                    "correct": true
+                },
+                {
+                    "text": "$ node start"
+                },
+                {
+                    "text": "$ node repl"
+                },
+                {
+                    "text": "$ node console"
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "html": [{
+            "questionText": "HTML is considered as_____",
+            "options": [{
+                    "text": "Markup language",
+                    "correct": true
+                },
+                {
+                    "text": "Programming language"
+                },
+                {
+                    "text": "OOP language"
+                },
+                {
+                    "text": "HIgh level language"
+                }
+            ],
+            "explanation": "Markup languages are the languages of the web.These markup languages include HTML,XML and XHTML"
+        },
+        {
+            "questionText": "Choose the correct HTML tag for a large title.",
+            "options": [{
+                    "text": "H6"
+                },
+                {
+                    "text": "Head"
+                },
+                {
+                    "text": "Heading"
+                },
+                {
+                    "text": "H1",
+                    "correct": true
+                }
+            ],
+            "explanation": "The elements h1 to h6 represent six levels of titles in an HTML document."
+        },
+        
+        {
+            "questionText": "If we want to place text around an image, which CSS property should we use?",
+            "options": [{
+                    "text": "float",
+                    "correct": true
+                },
+                {
+                    "text": "push"
+                },
+                {
+                    "text": "align"
+                },
+                {
+                    "text": "wrap"
+                }
+            ],
+            "explanation": "The “float” property indicates that an item should be placed on the right or left side of its container."
+        }
+    ]
+}

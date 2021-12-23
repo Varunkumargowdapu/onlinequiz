@@ -1,0 +1,57 @@
+{
+    "angular": [{
+            "questionText": "Which of the following statement is correct for AngularJS??",
+            "options": [{
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is an HTML framework"
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                }
+            ],
+            "explanation": "AngularJS is a JavaScript framework"
+        },
+        {
+            "questionText": " On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                },
+                {
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "Decorator pattern"
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                }
+            ],
+            "explanation": "AngularJS is based on MVVM Architectural pattern."
+        },
+        {
+            "questionText":"AngularJS is perfect for?",
+            "options": [{
+                    "text": "a. SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "MPAs"
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                }
+            ],
+            "explanation": "AngularJS is perfect for Single Page Applications (SPAs)."
+        }
+    ]
+}

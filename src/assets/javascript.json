@@ -1,0 +1,57 @@
+{
+    "javascript": [{
+            "questionText": "Which of the following option leads to the portability and security of Java?",
+            "options": [{
+                    "text": "Bytecode is executed by JVM",
+                    "correct": true
+                },
+                {
+                    "text": "The applet makes the Java code secure and portable"
+                },
+                {
+                    "text": "Use of exception handling"
+                },
+                {
+                    "text": "Dynamic binding between objects"
+                }
+            ],
+            "explanation": "The output of the Java compiler is bytecode, which leads to the security and portability of the Java code."
+        },
+        {
+            "questionText": "The \u0021 article referred to as a",
+            "options": [{
+                    "text": "Unicode escape sequence",
+                    "correct": true
+                },
+                {
+                    "text": "Octal escape"
+                },
+                {
+                    "text": "Hexadecimal"
+                },
+                {
+                    "text": "Line feed"
+                }
+            ],
+            "explanation": "In Java, Unicode characters can be used in string literals, comments, and commands, and are expressed by Unicode Escape Sequences."
+        },
+        {
+            "questionText": "Which of the following is not a Java features?",
+            "options": [{
+                    "text": "Use of pointers",
+                    "correct": true
+                },
+                {
+                    "text": "Dynamic"
+                },
+                {
+                    "text": "Architecture Neutral"
+                },
+                {
+                    "text": "Object-oriented"
+                }
+            ],
+            "explanation": "Java is dynamic, architecture-neutral, and object-oriented programming language"
+        }
+    ]
+}
